@@ -11,37 +11,37 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "white",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_white.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_white.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "wheat",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_wheat.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_wheat.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "gluten free",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_glutenfree.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_glutenfree.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "cornmeal",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_cornmeal.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_cornmeal.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "waffle",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_waffle.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_waffle.png"
         },
 
         {
           "ingredientIndex": 5,
           "ingredientName": "tortilla",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_tortilla.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/doughs_tortilla.png"
         },
       ]
     },
@@ -53,37 +53,37 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "red",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_red.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_red.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "white",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_white.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_white.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "pesto",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_pesto.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_pesto.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "barbecue",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_barbecue.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_barbecue.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "ranch",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_ranch.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_ranch.png"
         },
 
         {
           "ingredientIndex": 5,
           "ingredientName": "slime",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_slime.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/sauces_slime.png"
         },
       ]
     },
@@ -95,55 +95,55 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "mozzarella",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_mozzarella.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_mozzarella.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "parmesan",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_parmesan.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_parmesan.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "fresh mozzarella",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_freshmozzarella.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_freshmozzarella.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "ricotta",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_ricotta.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_ricotta.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "blue cheese",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_bluecheese.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_bluecheese.png"
         },
 
         {
           "ingredientIndex": 5,
           "ingredientName": "vegan cheese",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_vegancheese.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_vegancheese.png"
         },
 
         {
           "ingredientIndex": 6,
           "ingredientName": "pepper jack",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_pepperjack.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_pepperjack.png"
         },
 
         {
           "ingredientIndex": 7,
           "ingredientName": "american",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_american.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_american.png"
         },
 
         {
           "ingredientIndex": 8,
           "ingredientName": "cheese whiz",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_cheesewhiz.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/cheeses_cheesewhiz.png"
         },
       ]
     },
@@ -155,55 +155,55 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "pepperoni",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_pepperoni.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_pepperoni.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "sausage",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_sausage.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_sausage.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "meatball",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_meatball.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_meatball.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "chicken",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_chicken.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_chicken.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "bacon",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_bacon.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_bacon.png"
         },
 
         {
           "ingredientIndex": 5,
           "ingredientName": "egg",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_egg.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_egg.png"
         },
 
         {
           "ingredientIndex": 6,
           "ingredientName": "spam",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_spam.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_spam.png"
         },
 
         {
           "ingredientIndex": 7,
           "ingredientName": "tofu",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_tofu.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_tofu.png"
         },
 
         {
           "ingredientIndex": 8,
           "ingredientName": "anchovy",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_anchovy.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/proteins_anchovy.png"
         },
       ]
     },
@@ -215,91 +215,91 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "red onion",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_redonion.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_redonion.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "green bell pepper",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_greenbellpepper.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_greenbellpepper.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "garlic",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_garlic.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_garlic.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "spinach",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_spinach.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_spinach.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "artichoke heart",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_artichokeheart.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_artichokeheart.png"
         },
 
         {
           "ingredientIndex": 5,
           "ingredientName": "tomato",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_tomato.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_tomato.png"
         },
 
         {
           "ingredientIndex": 6,
           "ingredientName": "cabbage",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_cabbage.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_cabbage.png"
         },
 
         {
           "ingredientIndex": 7,
           "ingredientName": "broccoli",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_broccoli.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_broccoli.png"
         },
 
         {
           "ingredientIndex": 8,
           "ingredientName": "zucchini",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_zucchini.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_zucchini.png"
         },
 
         {
           "ingredientIndex": 9,
           "ingredientName": "pineapple",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_pineapple.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_pineapple.png"
         },
 
         {
           "ingredientIndex": 10,
           "ingredientName": "olive",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_olive.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_olive.png"
         },
 
         {
           "ingredientIndex": 11,
           "ingredientName": "jalapeno",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_jalapeno.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_jalapeno.png"
         },
 
         {
           "ingredientIndex": 12,
           "ingredientName": "basil",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_basil.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_basil.png"
         },
 
         {
           "ingredientIndex": 13,
           "ingredientName": "corn",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_corn.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_corn.png"
         },
 
         {
           "ingredientIndex": 14,
           "ingredientName": "mushroom",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_mushroom.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/veggies_mushroom.png"
         },
       ]
     },
@@ -311,43 +311,43 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "salt",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_salt.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_salt.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "black pepper",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_blackpepper.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_blackpepper.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "oregano",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_oregano.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_oregano.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "garlic powder",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_garlicpowder.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_garlicpowder.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "bay leaf",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_bayleaf.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_bayleaf.png"
         },
 
         {
           "ingredientIndex": 5,
           "ingredientName": "red pepper flake",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_redpepperflake.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_redpepperflake.png"
         },
 
         {
           "ingredientIndex": 6,
           "ingredientName": "fairy dust",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_fairydust.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/seasonings_fairydust.png"
         },
       ]
     },
@@ -359,31 +359,31 @@
         {
           "ingredientIndex": 0,
           "ingredientName": "ranch",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_ranch.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_ranch.png"
         },
 
         {
           "ingredientIndex": 1,
           "ingredientName": "blue cheese",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_bluecheese.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_bluecheese.png"
         },
 
         {
           "ingredientIndex": 2,
           "ingredientName": "nacho cheese",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_nachocheese.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_nachocheese.png"
         },
 
         {
           "ingredientIndex": 3,
           "ingredientName": "hot honey",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_hothoney.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_hothoney.png"
         },
 
         {
           "ingredientIndex": 4,
           "ingredientName": "buffalo",
-          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_buffalo.png",
+          "ingredientSource": "https://donkeybong.github.io/pizzabuilder/dips_buffalo.png"
         },
       ]
     },
