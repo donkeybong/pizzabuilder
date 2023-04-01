@@ -1,0 +1,113 @@
+/* breakpoints */
+@media (min-width: 64em) {
+  /* insert styles here */
+}
+/* 640px, 1024px, 1400px */
+/* 639px, 1023px, 1399px */
+/* flexbox controls */
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1rem;
+  padding: 0;
+  background-color: #F3E9CE;
+  line-height: 1.15;
+}
+
+/* fonts and text */
+h1 {
+  font-family: "Racing Sans One", cursive;
+  font-size: 4rem;
+  color: #7C131A;
+}
+
+h2 {
+  font-family: "Racing Sans One", cursive;
+  font-size: 1.9rem;
+  color: #091E05;
+}
+
+h3 {
+  font-family: "Noto Sans Display", sans-serif;
+  font-size: 1.3rem;
+  color: #091E05;
+}
+
+.selected {
+  opacity: 25%;
+}
+
+.layout {
+  display: grid;
+  grid-template-rows: 1fr 3fr;
+  grid-template-columns: 1fr 1fr;
+}
+
+.header {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 1;
+  grid-column-end: 3;
+}
+
+.menu {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.menu article {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 15px;
+  flex-wrap: wrap;
+  max-width: 35rem;
+}
+.menu article h3 {
+  display: block;
+}
+.menu span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 2.75rem;
+  width: 4rem;
+  background-color: #768948;
+  border: 1px solid #768948;
+  border-radius: 18px;
+  font-family: "Noto Sans Display", sans-serif;
+  font-size: 0.8rem;
+  color: #091E05;
+  text-align: center;
+}
+.menu span:hover {
+  cursor: pointer;
+}
+
+.viewpane {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  height: min-content;
+  width: min-content;
+}
+.viewpane .pizza {
+  display: flex;
+  position: fixed;
+  width: 25rem;
+  height: 25rem;
+}
+.viewpane .notPizza {
+  display: none;
+}
+
+/*# sourceMappingURL=style.css.map */
