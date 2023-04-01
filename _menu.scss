@@ -1,0 +1,34 @@
+.menu {
+
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 1;
+  grid-column-end: 2;
+
+  article {
+    @include align-left;
+    flex-wrap: wrap;
+    max-width: 35rem;
+
+    h3 {
+      display: block;
+    }
+  }
+
+  span {
+    @include center-contents;
+    height: 2.75rem;
+    width: 4rem;
+    background-color: $green;
+    border: 1px solid $green;
+    border-radius: 18px;
+    font-family: 'Noto Sans Display', sans-serif;
+    font-size: $font_small;
+    color: $black;
+    text-align: center;
+
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

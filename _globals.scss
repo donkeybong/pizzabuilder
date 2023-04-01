@@ -1,0 +1,39 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1rem;
+  padding: 0;
+  background-color: $pale;
+  line-height: 1.15;
+}
+
+/* fonts and text */
+
+h1 {
+  font-family: 'Racing Sans One', cursive;
+  font-size: $font_giant;
+  color: $red;
+}
+
+h2 {
+  font-family: 'Racing Sans One', cursive;
+  font-size: $font_large;
+  color: $black;
+}
+
+h3 {
+  font-family: 'Noto Sans Display', sans-serif;
+  font-size: $font_medium;
+  color: $black;
+}
+
+.selected {
+  opacity: 25%;
+}
